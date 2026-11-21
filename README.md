@@ -33,6 +33,7 @@ print(InfinityNorm)
 ```
 ## Output:
 
+<img width="662" height="405" alt="image" src="https://github.com/user-attachments/assets/fb9c761c-8f58-4127-af78-a564dacc0f2c" />
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
